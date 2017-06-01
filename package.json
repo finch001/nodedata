@@ -1,0 +1,20 @@
+{
+  "name": "nodedata",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node --inspect ./bin/www"
+  },
+  "dependencies": {
+    "async": "^2.4.1",
+    "body-parser": "~1.17.1",
+    "cheerio": "^1.0.0-rc.1",
+    "cookie-parser": "~1.4.3",
+    "debug": "~2.6.3",
+    "express": "~4.15.2",
+    "jade": "~1.11.0",
+    "morgan": "~1.8.1",
+    "request": "^2.81.0",
+    "serve-favicon": "~2.4.2"
+  }
+}
